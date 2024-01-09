@@ -2,7 +2,7 @@
 <h3 align= "left">On following Topics 👇<h3/>
   
   
-<b>⚫Arrays<b/>
+<b>⚫<a href="https://github.com/icesledgar/100-days-of-DSA/tree/main/Arrays" tagrge= "blank">Arrays<b/>
 
 <b>⚫Matrix<b/>
 
