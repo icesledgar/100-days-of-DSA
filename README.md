@@ -3,13 +3,22 @@
   <br>
   
 <b>⚫Arrays<b/>
+
 <b>⚫Matrix<b/>
+
 <b>⚫String<b/>
+
 <b>⚫Linked List<b/>
+
 <b>⚫Stack & Queue<b/>
+
 <b>⚫Tree<b/>
+
 <b>⚫Heap<b/>
+
 <b>⚫Graph<b/>
+
 <b>⚫Dynamic Programming<b/>
+
 <b>⚫Bit Manipulations<b/>
 
