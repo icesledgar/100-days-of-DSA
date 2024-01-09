@@ -1,4 +1,4 @@
-<h1 align= "center">🙂Here I Upload my 100 days 100 project of DSA using C programing Language.🙂<h1/>
+<h1 align= "justify">🙂Here I Upload my 100 days 100 project of DSA using C programing Language🙂<h1/>
 <h3 align= "left">On following Topics 👇<h3/>
   
   
