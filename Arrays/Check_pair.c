@@ -1,6 +1,6 @@
 /*
-* This C program tells if there exists a pair in array
-* whose sum results in x.
+ This C program tells if there exists a pair in array
+ whose sum results in x.
 */
 
 #include <stdio.h>
